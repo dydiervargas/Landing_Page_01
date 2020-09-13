@@ -17,7 +17,7 @@ En la mercadotecnia en internet, se denomina página de aterrizaje o **Landing P
 
 ### Autor
 
-Dydier Vargas
+**Dydier Vargas**
 [Cuenta de Github](https://github.com/dydiervargas)
 [Cuenta de Twitter](https://twitter.com/home)
 2020
