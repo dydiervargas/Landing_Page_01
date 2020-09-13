@@ -11,11 +11,11 @@ En la mercadotecnia en internet, se denomina página de aterrizaje o **Landing P
 
 ### Contenido
 
-Maquetación - Contenido HTML
-Hojas de Estilos - Contenido CSS
-Interactividad - Javascript
+1. [Maquetación - Contenido HTML](index.html/)
+2. [Hojas de Estilos - Contenido CSS](style.css/)
+3. [Interactividad - Javascript](script.js/)
 
-###Autor
+### Autor
 
 Dydier Vargas
 [Cuenta de Github](https://github.com/dydiervargas)
